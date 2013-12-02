@@ -1,5 +1,5 @@
 # Path and Default Text Editor
-export PATH=/usr/local/bin:~/bin:${PATH}
+export PATH=/usr/local/bin:~/bin:/usr/local/sbin:${PATH}
 export EDITOR='subl -w'
 
 # RVM
